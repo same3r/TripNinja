@@ -1,0 +1,2 @@
+serviceClass: edu.columbia.tripninja.client.ContactsService
+path: 8B59B0B2E7962B95086D1C517C21E2E2.gwt.rpc

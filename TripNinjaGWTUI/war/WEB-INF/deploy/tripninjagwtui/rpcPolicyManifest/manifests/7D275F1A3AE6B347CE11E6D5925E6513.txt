@@ -1,0 +1,2 @@
+serviceClass: edu.coumbia.tripninja.client.GreetingService
+path: A6C6C5776F18C89EEC6BE0C82E85170B.gwt.rpc

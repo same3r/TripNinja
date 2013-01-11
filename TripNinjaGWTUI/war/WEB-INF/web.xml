@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE web-app
+    PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+    "http://java.sun.com/dtd/web-app_2_3.dtd">
+
+<web-app>
+  
+  <servlet>
+    <servlet-name>tripNinjaServiceServlet</servlet-name>
+    <servlet-class>edu.columbia.tripninja.server.TripNinjaServiceImpl</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>tripNinjaServiceServlet</servlet-name>
+    <url-pattern>/tripninja/tripninjaService</url-pattern>
+  </servlet-mapping>
+
+  <!-- Default page to serve -->
+  <welcome-file-list>
+    <welcome-file>TripNinja.html</welcome-file>
+  </welcome-file-list>
+
+</web-app>

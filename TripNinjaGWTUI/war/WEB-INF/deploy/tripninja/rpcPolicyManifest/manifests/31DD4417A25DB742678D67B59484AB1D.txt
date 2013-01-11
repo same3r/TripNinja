@@ -1,0 +1,2 @@
+serviceClass: edu.columbia.tripninja.client.TripNinjaService
+path: 5FC742E354504CA1CB3E0A034E9C3F9F.gwt.rpc
